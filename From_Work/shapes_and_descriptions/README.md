@@ -1,1 +1,1 @@
-
+Feralloy used to not do shapes. Now we do, and we need to update the system such that when a steel order comes in for a certain shape, we can look up information about said shape in the IBM-i operating system. The boss gives you thousands of tables for different shapes, and asks you to do just that. It is noted by the boss that IBM-i provides an easy way to port data from Excel into the OS, and the boss was generous and gave the tables in PDF form.
