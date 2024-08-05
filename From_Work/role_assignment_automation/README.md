@@ -1,1 +1,1 @@
-
+At most places of work, certain permissions are needed for access to the company's software. For example, if I was an IT intern, I would be able to access different things than an accountant. The boss gives you a huge document full of employees and their current permissions, then asks you to find the set of roles and the respective permissions so that when a new person is onboarded, giving them all necessary permissions is as simple as assigning them a role.

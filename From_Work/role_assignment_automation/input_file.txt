@@ -1,0 +1,31 @@
+this is some text before getting
+to the first line where the
+cool logic starts
+User: Connor
+Something: here i forget what it was
+
+line with column names
+some stuff always  000  DESCRIPTION1
+goes here for     000  DESCRIPTION2
+what reason idk   000  DESCRIPTION3
+
+theres some other junk lines
+
+User: Connor
+Something: here, but this is the repeated user case
+
+column names here
+this program    000    DESCRIPTION4
+considers the case  000 DESCRIPTION5
+that duplicates  000   DESCRIPTION6
+
+exist. heres is another
+
+User: Other
+Something: here, this tests multiple users permissions being set
+
+columns begin
+meaningful      000    DESCRIPTION7
+goes here       000    DESCRIPTION8
+
+haha heres another line
